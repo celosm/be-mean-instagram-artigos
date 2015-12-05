@@ -1,7 +1,7 @@
 # Artigo
 **autor**: Suissa
 
-**Prazo**: **até dia 23 de Novembro de 2015 [PRAZO EXTENDIDO]**
+**Prazo**: **sem limite**
 
 Explique, com teoria e código, nesse artigo como o JavaScript cria e instancia as variáveis, seguindo os seguintes tópicos.
 
@@ -43,3 +43,5 @@ Boa sorte.
 2. Nomeie seu artigo usando o seguinte padrão: artigo-instanciacao-githubuser-nome-completo.md
 3. Adicione seu exercício aqui na Pasta Variables
 4. Faça um Pull Requst enviando seu artigo.
+
+
